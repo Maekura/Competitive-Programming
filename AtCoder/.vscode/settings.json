@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Mayukai Mirage Darker",
+    "code-runner.runInTerminal": true,
+    "workbench.sideBar.location": "left",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "runner.languageMap": {
+        "cpp": "/Users/Maekura/vsc_run/cpp.sh"
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
